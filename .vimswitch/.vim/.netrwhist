@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/sontek/code/dotfiles/_mutt/_mutt'
+let g:netrw_dirhist_2='/home/jfk/Unibet/src/shortbread/appserver/config/hooks/post-deploy'
+let g:netrw_dirhist_3='/home/jfk/Unibet/src/sb/src/main/resources/database'
+let g:netrw_dirhist_4='/home/jfk/Ubuntu One/Unibet/src/pipeline/.git'
+let g:netrw_dirhist_5='/home/jfk/Ubuntu One/Unibet/src/newlb/big-ip-f5-api-read-only/BigIP'
+let g:netrw_dirhist_6='/home/jfk/.cache'
+let g:netrw_dirhist_7='/home/jfk/Ubuntu One/Unibet/src/siteconfig'
+let g:netrw_dirhist_8='/media/e06c801a-90c3-474c-8484-8ac426b4f92b/etc/netctl'
+let g:netrw_dirhist_9='/tmp/x/appserver/config'
